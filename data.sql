@@ -1,0 +1,4 @@
+INSERT INTO customer VALUES
+(1,'Jyoti',9560779836),
+(2,'Harshu',9595087005),
+(3,'Amit',9595080563);
